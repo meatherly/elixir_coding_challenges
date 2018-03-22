@@ -12,6 +12,7 @@ At the root of this repo you'll see the `challenges` folder. Inside of that will
 ## Challenges
 
 * [Image Parser](challenges/image_parser.md)
+* [TCP Chat Server](challenges/tcp_chat.md)
 
 
 ## Adding Challenges
